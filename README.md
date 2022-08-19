@@ -1,2 +1,2 @@
 # odin_recipes
-Recipes project from re-strarting The Odin Project
+Recipes project from re-starting The Odin Project
